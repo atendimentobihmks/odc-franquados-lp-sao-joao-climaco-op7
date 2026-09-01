@@ -5,8 +5,8 @@ Landing Page Institucional e de Alta Conversão em React 19 + TypeScript + Vite 
 ---
 
 ## 🏥 Dados da Unidade
-* **Responsável Técnico:** Dr. Fernando Morais de Souza (CRO-SP 117461)
-* **Endereço:** Rua São João Clímaco, 689 • São João Clímaco, São Paulo/SP - CEP 04255-000
+* **Responsável Técnico:** Dr. Fernando Morais de Souza (CRO/SP 117461 • RC 12970)
+* **Endereço:** Rua São João Clímaco, 689 Sobreloja • São João Clímaco, São Paulo/SP - CEP 04255-000
 * **WhatsApp:** (11) 94113-9397 (`5511941139397`)
 * **Instagram:** https://www.instagram.com/odontocompanysaojoaoclimaco/
 * **Facebook:** https://www.facebook.com/OdontoCompanySaoJoaoClimaco

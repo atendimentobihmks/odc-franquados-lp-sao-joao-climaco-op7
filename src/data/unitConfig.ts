@@ -54,10 +54,10 @@ export const UNITS_DATA: Record<string, UnitData> = {
     whatsappMessage: 'Olá! Gostaria de agendar uma consulta de avaliação na OdontoCompany São João Clímaco.',
     instagramUrl: 'https://www.instagram.com/odontocompanysaojoaoclimaco/',
     facebookUrl: 'https://www.facebook.com/OdontoCompanySaoJoaoClimaco',
-    croCl: 'CRO-SP 117.461',
+    croCl: 'CRO/SP: 117.461 | RC: 12.970',
     address: {
       street: 'Rua São João Clímaco',
-      number: '689',
+      number: '689 Sobreloja',
       neighborhood: 'São João Clímaco',
       city: 'São Paulo',
       state: 'SP',
@@ -65,8 +65,8 @@ export const UNITS_DATA: Record<string, UnitData> = {
     },
     clinicalDirector: {
       name: 'Dr. Fernando Morais de Souza',
-      cro: 'CRO-SP 117461',
-      role: 'Responsável Técnico(a) / Direção Clínica'
+      cro: 'CRO/SP 117461',
+      role: 'Responsável Técnico / Direção Clínica'
     },
     treatments: [
       {
@@ -118,8 +118,8 @@ export const UNITS_DATA: Record<string, UnitData> = {
     dentists: [
       {
         name: 'Dr. Fernando Morais de Souza',
-        specialty: 'Responsável Técnico(a) & Cirurgião(ã) Dentista',
-        cro: 'CRO-SP 117461',
+        specialty: 'Responsável Técnico & Cirurgião-Dentista',
+        cro: 'CRO/SP 117461 | RC 12970',
         photoUrl: '/images/dentistas/dr-fernando-souza.webp'
       }
     ],

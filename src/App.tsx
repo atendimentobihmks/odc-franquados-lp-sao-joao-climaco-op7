@@ -609,7 +609,7 @@ export default function App() {
             <div className="max-w-3xl mx-auto space-y-4 mb-16 flex flex-col items-center text-center">
               <div className="flex flex-col items-center">
                 <h2 className="text-3xl md:text-5xl font-extrabold text-brand-green-primary tracking-tight">
-                  Responsável Técnica
+                  Responsável Técnico
                 </h2>
                 <div className="flex items-center gap-2 mt-4">
                   <span className="h-[2px] w-16 bg-gradient-to-r from-transparent to-brand-green-primary rounded-full"></span>
@@ -618,7 +618,7 @@ export default function App() {
                 </div>
               </div>
               <p className="text-brand-emerald text-lg md:text-xl">
-                Conheça a profissional responsável por cuidar da saúde e excelência no atendimento na unidade {unit.name}.
+                Conheça o profissional responsável por cuidar da saúde e excelência no atendimento na unidade {unit.name}.
               </p>
             </div>
 
